@@ -6,12 +6,12 @@ It is an open-source, cross platform javascript runtime environment, built on go
 
 ## Why Use Node.js
 
---APIs(REST, GraphQL)
---Realtime Apps
---Streaming Services
---Command Line Tools
+- APIs(REST, GraphQL)
+- Realtime Apps
+- Streaming Services
+- Command Line Tools
 
-### Installing Node
+## Installing Node
 
 To begin with node.js installation, first check if node already exists in your system as follows:
 
