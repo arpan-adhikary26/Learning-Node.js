@@ -24,6 +24,4 @@ If Node does not exist in your system, you can download Node.js from [https://no
 
 1. Download the LTS version (recommended).
 2. Install it by following the prompts.
-3. Verify installation using commands:
-   -node
-   -node -v
+3. Verify installation using commands: node , node -v
