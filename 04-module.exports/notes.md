@@ -6,6 +6,7 @@ The module.export is a special object in javascript that contains all the essent
 module.exports="hello";
 
 you can include it in any file using the require() function.
+
 **For example:**
 
 let imp = require("./file-path");
