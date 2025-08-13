@@ -7,4 +7,5 @@ module.exports="hello";
 
 you can include it in any file using the require() function.
 **For example:**
-let imp = require("./file-path);
+
+let imp = require("./file-path");
