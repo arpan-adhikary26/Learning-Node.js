@@ -8,7 +8,6 @@ module.exports="hello";
 you can include it in any file using the require() function.
 
 **For example:**
-<<<<<<< HEAD
 let imp = require("./file-path);
 
 ### Exporting file from a different directory
@@ -23,8 +22,5 @@ Later you can now include the actually file from any directory using the require
 - You create an **index.js**  file inside the same **fruits** folder
 - Require all the files and export them as an array inside the **index.js**
 - Now from any other directory, you can access the files of **fruits** directory by
-including the **fruits** directory using **require(./fruits);**
-=======
+  including the **fruits** directory using **require(./fruits);**
 
-let imp = require("./file-path");
->>>>>>> 039a02685daaac8e90aec1f7e2d15860defe1bec
