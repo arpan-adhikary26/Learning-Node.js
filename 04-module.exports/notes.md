@@ -8,7 +8,6 @@ module.exports="hello";
 you can include it in any file using the require() function.
 
 **For example:**
-<<<<<<< HEAD
 let imp = require("./file-path);
 
 ### Exporting file from a different directory
