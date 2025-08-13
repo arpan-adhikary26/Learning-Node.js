@@ -11,10 +11,9 @@ It is an open-source, cross platform javascript runtime environment, built on go
 - Streaming Services
 - Command Line Tools
 
-### Installing Node
+## Installing Node
 
 To begin with node.js installation, first check if node already exists in your system as follows:
-
 
 -Open terminal or CMD  
 -type "node" and hit enter
@@ -25,3 +24,15 @@ If Node does not exist in your system, you can download Node.js from [https://no
 1. Download the LTS version (recommended).
 2. Install it by following the prompts.
 3. Verify installation using commands: node , node -v
+<<<<<<< HEAD:01-introduction/readme.md
+
+## What is REPL
+
+In node.js, REPL stands for: READ, EVAL, PRINT & LOOP.
+It's basically a shell where you can run node.js commands, see results and code javascirpt without creating a file first.
+
+**How it Works**
+1. READ-> Takes input
+2. EVAL-> Evaluates the code
+3. PRINT-> Prints the result
+4. LOOP-> Goes back to waiting for next command
