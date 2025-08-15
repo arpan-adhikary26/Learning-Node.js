@@ -46,14 +46,18 @@ This file contains exact information about dependencies and sub-dependencies.
 
 **CommonJS syntax:**
 //require
+
 const marks = require("/marks);
 
 //export
+
 module.exports = 75;
 
 **ESM syntax:**
-//require
+//import
+
 import {name} from '/name';
 
 //export
+
 export let name = 'ARPAN';
