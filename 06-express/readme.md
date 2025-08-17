@@ -19,5 +19,6 @@ With express you can:
 
     **npm install express**
   
-  <img width="1013" height="329" alt="Screenshot 2025-08-17 201417" src="https://github.com/user-attachments/assets/047c1b28-7df1-46d6-aa56-f276680183d4" />
+  <img width="700" height="329" alt="Screenshot 2025-08-17 201417" src="https://github.com/user-attachments/assets/047c1b28-7df1-46d6-aa56-f276680183d4" />
+
 
