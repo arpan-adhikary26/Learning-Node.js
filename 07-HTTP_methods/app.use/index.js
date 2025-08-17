@@ -7,5 +7,7 @@ app.listen(port,()=>{
 });
 
 app.use((req,res)=>{
+    res.send("Hello World");
     console.log("request received...");
+
 })
