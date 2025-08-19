@@ -30,6 +30,9 @@ To install EJS, run:-
 In your express file, you need to set the view engine to EJS.
 Below Code demonstrates the process...
 
+<img width="727" height="450" alt="Screenshot 2025-08-19 210944" src="https://github.com/user-attachments/assets/72b535ba-bf19-44f1-84d8-5a857990068f" />
+
+
 - After setting up Express, create a folder named **views**.
 - This folder contains all your ejs templated to include.
 - Inside views folder, you can now create your ejs files using **.ejs** extension.
